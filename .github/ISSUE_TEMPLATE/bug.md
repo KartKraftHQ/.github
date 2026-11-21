@@ -5,8 +5,11 @@ labels: bug
 ---
 
 ### What happened
+
 ### What should have happened
+
 ### Steps to reproduce
+
 1.
 
-**Where** (page or URL, device, browser)
+### Where (page or URL, device, browser)
