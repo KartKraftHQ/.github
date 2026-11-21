@@ -4,6 +4,6 @@ about: Something a store should do
 labels: enhancement
 ---
 
-**What it should do**
+### What it should do
 
-**Who it's for and why**
+### Who it's for and why
